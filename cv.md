@@ -1,5 +1,3 @@
-![GitHub Avatar](https://www.dertz.in/apps/android/imgs/GitHub-25.jpg)
-
 # Giorgi Jajanidze
 
 ## Contact information
