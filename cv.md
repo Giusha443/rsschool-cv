@@ -1,6 +1,6 @@
 # Giorgi Jajanidze
 
-##Contact information
+## Contact information
 
 - LinkedIn: [Giorgi Jajanidze](https://www.linkedin.com/in/giorgi-jajanidze-8ba205295/)
 - Phone number: +995 551550165
@@ -8,7 +8,7 @@
 - Discord name: **Giusha(@Giusha443)**
 - Mail: **giorgi.jajanidze2003@gmail.com**
 
-##About me
+## About me
 
 I am 20 years old,currently studying in [TSU](https://tsu.ge/). i am looking for activities,which will help me to develope myself.and my goal is to learn
 as much as i can.
