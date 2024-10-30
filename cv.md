@@ -10,10 +10,25 @@
 
 ## About me
 
-I am 20 years old,currently studying in [TSU](https://tsu.ge/). i am looking for activities,which will help me to develope myself.and my goal is to learn
-as much as i can.
+I am 20 years old,currently studying in [TSU](https://tsu.ge/). i am looking for activities,which will help me to develope myself.and my goal is to learn as much as i can.i do not have any work experience.
 
-##Code example
+- My strengths
+  - Quick learner
+  - Team player
+  - Working till the end
+
+## Skills
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Git/Github
+- [x] C#
+- [x] C++
+- [x] MySQL
+- [ ] SCSS (_currently learning_)
+
+## Code example
 
 ```
 function multiply(a, b){
@@ -35,3 +50,18 @@ describe("Multiply", () => {
 });
 
 ```
+
+## Languages
+
+- Russian: C1
+- Georgian: Native
+- English: B2
+
+## Education
+
+- [HTML&CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST6MT103124)
+- [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ST6MT103124)
+
+## Experience
+
+- [Course project](https://github.com/Giusha443/forkify) -[Ad Project](https://github.com/yan-codevelop/givi-jajanidze)
