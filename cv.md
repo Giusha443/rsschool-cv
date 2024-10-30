@@ -1,3 +1,5 @@
+![GitHub Avatar](https://www.dertz.in/apps/android/imgs/GitHub-25.jpg)
+
 # Giorgi Jajanidze
 
 ## Contact information
@@ -59,9 +61,11 @@ describe("Multiply", () => {
 
 ## Education
 
+- Bachelor of Computer Science(Georgian-French),Georgia, Tbilisi State University(Ivane Javakhishvili),Tbilisi
 - [HTML&CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST6MT103124)
 - [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ST6MT103124)
 
 ## Experience
 
-- [Course project](https://github.com/Giusha443/forkify) -[Ad Project](https://github.com/yan-codevelop/givi-jajanidze)
+- [Course project](https://github.com/Giusha443/forkify)
+- [Ad Project ](https://github.com/yan-codevelop/givi-jajanidze)
