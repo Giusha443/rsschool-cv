@@ -12,7 +12,7 @@
 
 ## About me
 
-I am 20 years old,currently studying in [TSU](https://tsu.ge/). i am looking for activities,which will help me to develope myself.and my goal is to learn as much as i can.i do not have any work experience.
+I am 21 years old,currently studying in [TSU](https://tsu.ge/). i am looking for activities,which will help me to develop myself.and my goal is to learn as much as i can.i do not have any work experience.
 
 - My strengths
   - Quick learner
@@ -24,10 +24,12 @@ I am 20 years old,currently studying in [TSU](https://tsu.ge/). i am looking for
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
+- [x] TypeScript
 - [x] Git/Github
 - [x] C#
 - [x] C++
 - [x] MySQL
+- [ ] Angular( _currently learning_)
 - [ ] SCSS (_currently learning_)
 
 ## Code example
@@ -64,6 +66,7 @@ describe("Multiply", () => {
 - Bachelor of Computer Science(Georgian-French),Georgia, Tbilisi State University(Ivane Javakhishvili),Tbilisi
 - [HTML&CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST6MT103124)
 - [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ST6MT103124)
+- [RS frond-end course](https://app.rs.school/certificate/phzowfgf)
 
 ## Experience
 
